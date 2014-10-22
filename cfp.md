@@ -8,7 +8,7 @@ title: "Call for Participation"
 ## Intro
 
 The goal of the Ruby devroom is to host technical content focused around the Ruby
-langauge and the numerous open source projects and initiatives which implement,
+language and the numerous open source projects and initiatives which implement,
 extend and instrument the Ruby language.
 
 The time format for presentations in the Ruby devroom is not set in stone, but
