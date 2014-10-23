@@ -4,6 +4,11 @@ title: "FOSDEM &lt;3 Ruby"
 subtitle: "The #1 Ruby language devroom at FOSDEM"
 ---
 
+## Call for Participation!
+
+**[We have opened up the call for participation](/cfp.html)!**
+
+---
 
 The Ruby devroom at [FOSDEM](http://fosdem.org) is a focused developer room
 around the Ruby programming language and the open source projects which
