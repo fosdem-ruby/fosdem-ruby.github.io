@@ -43,7 +43,8 @@ proposal on [penta.fosdem.org](https://penta.fosdem.org/submission/FOSDEM15).
 1. Click the "Create event" link
 1. Enter the details for your presentation
 1. You **must** select the "**Ruby devroom**" track in your submission. If you
-   don't we might never see your proposal!
+   don't we might never see your proposal! ([see here for
+example](/images/track_selection.png))
 1. Submit!
 
 
