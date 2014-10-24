@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Call for Participation"
+title: "Call for Presentations"
 ---
 
 # 2015
