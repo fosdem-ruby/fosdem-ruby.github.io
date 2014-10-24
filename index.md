@@ -58,8 +58,7 @@ should be more than enough highly interesting and technical content!
 * RubyMotion (Ruby on top of Apple's Objective-C/Cocoa foundation)
 * Maglev (Ruby on the GemStone Smalltalk VM)
 * Opal (A working Ruby to JavaScript transpiler)
-
-
+* mruby (lightweight, embedded Ruby)
 
 ## Who we are 
 
