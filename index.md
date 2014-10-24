@@ -4,9 +4,9 @@ title: "FOSDEM &lt;3 Ruby"
 subtitle: "The #1 Ruby language devroom at FOSDEM"
 ---
 
-## Call for Participation!
+## Call for Presentations!
 
-**[We have opened up the call for participation](/cfp.html)!**
+**[We have opened up the call for presentations](/cfp.html)!**
 
 ---
 
