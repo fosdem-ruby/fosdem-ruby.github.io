@@ -63,3 +63,8 @@ should be more than enough highly interesting and technical content!
 ## Who we are 
 
 {% include committee.md %}
+
+## How could you support the devroom?
+
+If you'd like to help the Ruby devroom to welcome speakers from all around the
+world, [you do it via sponsorship](/sponsorship.html).
