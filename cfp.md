@@ -54,7 +54,7 @@ FOSDEM.
 
 ## Important Dates
 
-* End of the Call for Participation: **December 1st, 2014**
+* End of the Call for Participation: **December 12th, 2014**
 * Announcement of accepted proposals: **December 15th, 2014**
 * FOSDEM 2015: **January 31st and February 1st, 2015**
 
