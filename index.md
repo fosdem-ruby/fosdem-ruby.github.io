@@ -4,11 +4,6 @@ title: "FOSDEM &lt;3 Ruby"
 subtitle: "The #1 Ruby language devroom at FOSDEM"
 ---
 
-## Call for Presentations!
-
-**[We have opened up the call for presentations](/cfp.html)!**
-
----
 
 The Ruby devroom at [FOSDEM](http://fosdem.org) is a focused developer room
 around the Ruby programming language and the open source projects which
@@ -30,7 +25,6 @@ non-existent. The goal of this developer room is to discuss:
 * [Ruby (MRI)](https://www.ruby-lang.org/)
 * [RubyTruffle](http://www.chrisseaton.com/rubytruffle/)
 * [Rubinius (Ruby on Ruby)](http://rubini.us/)
-
 
 
 ## Why we're here
@@ -60,7 +54,7 @@ should be more than enough highly interesting and technical content!
 * Opal (A working Ruby to JavaScript transpiler)
 * mruby (lightweight, embedded Ruby)
 
-## Who we are 
+## Who we are
 
 {% include committee.md %}
 

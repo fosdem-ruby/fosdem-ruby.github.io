@@ -3,7 +3,7 @@ layout: default
 title: "Call for Presentations"
 ---
 
-# 2015
+# 2015 Call for Presentations is CLOSED
 
 ## Intro
 
