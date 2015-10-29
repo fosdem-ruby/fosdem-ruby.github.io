@@ -3,11 +3,11 @@ layout: default
 title: "Call for Presentations"
 ---
 
-# 2015 Call for Presentations is CLOSED
+# 2016
 
 ## Intro
 
-The goal of the Ruby devroom is to host technical content focused around the Ruby
+The Ruby Devroom at FOSDEM is an interpreter and runtime focused developer room for the Ruby programming language. Its goal is to host technical content focused around the Ruby
 language and the numerous open source projects and initiatives which implement,
 extend and instrument the Ruby language.
 
@@ -16,7 +16,6 @@ the ideal duration is around 35-45 minutes with Q&A included.
 
 We are open to suggestions for panels and/or more open, moderated, discussions
 provided the topics proposed fit with the theme of the room.
-
 
 ### Talks/topics we'd like to see
 
@@ -31,6 +30,9 @@ Ruby devroom:
   user benefits that they provide
 * Tools and practices used to certify Ruby language conformity and evaluate its
   performance
+* Costs and Opportunities provided by the multitude of implementations
+* Ways to extend the language (natively or not)
+
 
 ## Submitting
 
@@ -54,9 +56,9 @@ FOSDEM.
 
 ## Important Dates
 
-* End of the Call for Participation: **December 12th, 2014**
-* Announcement of accepted proposals: **December 15th, 2014**
-* FOSDEM 2015: **January 31st and February 1st, 2015**
+* End of the Call for Participation: **December 1st, 2015**
+* Announcement of accepted proposals: **December 15th, 2015**
+* FOSDEM 2016: **January 30th 31st, 2016**
 
 ## Selection Committee
 
