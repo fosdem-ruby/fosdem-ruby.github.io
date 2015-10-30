@@ -37,7 +37,7 @@ Ruby devroom:
 ## Submitting
 
 To submit a proposal to present in the Ruby devroom, please submit your
-proposal on [penta.fosdem.org](https://penta.fosdem.org/submission/FOSDEM15).
+proposal on [penta.fosdem.org](https://penta.fosdem.org/submission/FOSDEM16).
 
 ### Steps
 
