@@ -20,4 +20,4 @@ We'll use the money to cover the following (ordered by priority):
 speakers' accommodations, speakers' travels, a dinner, and running cost.
 
 Ready to support the Ruby devroom? Contact
-[Christophe](mailto:christophe [dot] philemotte [at] 8thcolor [dot] com).
+[Christophe](mailto:toch [at] rubybelgium [dot] be).
