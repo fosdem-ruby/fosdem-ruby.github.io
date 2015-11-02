@@ -54,6 +54,12 @@ should be more than enough highly interesting and technical content!
 * Opal (A working Ruby to JavaScript transpiler)
 * mruby (lightweight, embedded Ruby)
 
+## When and Where
+
+The Ruby devroom takes place on Sunday, the 31st January 2016, in the room H.2213,
+[building H](https://fosdem.org/2016/schedule/buildings/#h), on the
+[Solbosch Campus, Université Libre de Bruxelles](https://goo.gl/maps/52tGkVuKJZS2).
+
 ## Who we are
 
 {% include committee.md %}
