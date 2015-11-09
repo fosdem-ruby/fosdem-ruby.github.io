@@ -56,7 +56,7 @@ FOSDEM.
 ## Code of Conduct
 
 As other participants, speakers are required to agree with our
-[code of conduct](coc.md). Moreover, they should be aware of their influence and
+[code of conduct](coc). Moreover, they should be aware of their influence and
 realize what they do and say reflects on the organization and devroom in general.
 You and your slides should acts as an exemplary role. We do not tolerate any
 kind of harassment in a talk. Please keep in mind that a harmless joke to you

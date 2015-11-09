@@ -67,7 +67,7 @@ The Ruby devroom takes place on Sunday, the 31st January 2016, in the room H.221
 ## Code of Conduct
 
 We dedicate ourselves to making everyone feel welcome and at home. Our
-[Code of Conduct](coc.md) offers some guidelines to ensure this for both
+[Code of Conduct](coc) offers some guidelines to ensure this for both
 attendees and speakers. The organizers are available to anyone who is anything
 less than completely comfortable.
 
