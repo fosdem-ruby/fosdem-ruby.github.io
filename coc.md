@@ -14,7 +14,7 @@ available both during, before and after the conference. You can reach us by
 email, phone, Twitter or simply come to us during the devroom. We'll be easy to
 spot.
 
-* Email: toch@rubybelgium.be (Christophe) or ? (Tyler)
+* Email: `toch@rubybelgium.be` (Christophe) or `tyler@monkeypox.org` (Tyler)
 * Twitter: [@ruby_fosdem](https://twitter.com/ruby_fosdem)
 * Phone: incoming
 * Emergency number: 112
