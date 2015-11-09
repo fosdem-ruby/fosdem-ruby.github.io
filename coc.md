@@ -1,3 +1,7 @@
+---
+layout: default
+title: "Code of Conduct"
+---
 # Code of Conduct of Ruby Devroom
 
 All attendees, speakers, sponsors, and volunteers at our Ruby FOSDEM devroom are
