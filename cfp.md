@@ -67,8 +67,8 @@ presentation in cases of doubt about your content.
 
 ## Important Dates
 
-* End of the Call for Participation: **December 1st, 2015**
-* Announcement of accepted proposals: **December 15th, 2015**
+* End of the Call for Participation: **December 10th, 2015**
+* Announcement of accepted proposals: **December 17th, 2015**
 * FOSDEM 2016: **January 30th 31st, 2016**
 
 ## Selection Committee
