@@ -4,7 +4,7 @@ title: "FOSDEM &lt;3 Ruby"
 subtitle: "The #1 Ruby language devroom at FOSDEM"
 ---
 
-### [Call for proposals now open!](/cfp)
+### [Call for proposals now open!](/cfp.html)
 
 
 The Ruby devroom at [FOSDEM](http://fosdem.org) is a focused developer room
@@ -58,9 +58,8 @@ should be more than enough highly interesting and technical content!
 
 ## When and Where
 
-The Ruby devroom takes place on Sunday, the 31st January 2016, in the room H.2213,
-[building H](https://fosdem.org/2016/schedule/buildings/#h), on the
-[Solbosch Campus, Université Libre de Bruxelles](https://goo.gl/maps/52tGkVuKJZS2).
+The Ruby devroom takes place on Saturday, the 4th February 2017, on the
+[Solbosch Campus, Université Libre de Bruxelles](https://goo.gl/maps/52tGkVuKJZS2) (room and building yet to be determined).
 
 ## Who we are
 
@@ -69,11 +68,11 @@ The Ruby devroom takes place on Sunday, the 31st January 2016, in the room H.221
 ## Code of Conduct
 
 We dedicate ourselves to making everyone feel welcome and at home. Our
-[Code of Conduct](coc) offers some guidelines to ensure this for both
+[Code of Conduct](coc.html) offers some guidelines to ensure this for both
 attendees and speakers. The organizers are available to anyone who is anything
 less than completely comfortable.
 
 ## How could you support the devroom?
 
 If you'd like to help the Ruby devroom to welcome speakers from all around the
-world, [you do it via sponsorship](/sponsorship.html).
+world, [you do it via sponsorship](sponsorship.html).

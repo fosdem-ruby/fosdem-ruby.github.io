@@ -3,7 +3,7 @@ layout: default
 title: "Call for Presentations"
 ---
 
-# 2016
+# 2017
 
 ## Intro
 
@@ -37,7 +37,7 @@ Ruby devroom:
 ## Submitting
 
 To submit a proposal to present in the Ruby devroom, please submit your
-proposal on [penta.fosdem.org](https://penta.fosdem.org/submission/FOSDEM16).
+proposal on [penta.fosdem.org](https://penta.fosdem.org/submission/FOSDEM17).
 
 ### Steps
 
@@ -67,9 +67,9 @@ presentation in cases of doubt about your content.
 
 ## Important Dates
 
-* End of the Call for Participation: **December 10th, 2015**
-* Announcement of accepted proposals: **December 17th, 2015**
-* FOSDEM 2016: **January 30th 31st, 2016**
+* End of the Call for Participation: **December 10th, 2016**
+* Announcement of accepted proposals: **December 17th, 2016**
+* FOSDEM 2017: **Frebuary 4th & 5th, 2017**
 
 ## Selection Committee
 

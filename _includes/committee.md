@@ -1,2 +1,4 @@
 * [Christophe Philemotte](https://github.com/toch) - Ruby Belgium board member
-* [R. Tyler Croy](https://github.com/rtyler)  - JRuby/Jenkins hacker
+* [Silvana](https://github.com/) - 
+* [Tiago Mendes-Costa](https://github.com/) -
+* [Helio Cola](https://github.com/heliocola) - Ruby & Coffee for all
