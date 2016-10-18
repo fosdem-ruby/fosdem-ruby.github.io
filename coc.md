@@ -20,5 +20,19 @@ spot.
 
 * Email: `toch@rubybelgium.be` (Christophe) or `@silvanaprecup` (Silvana)
 * Twitter: [@ruby_fosdem](https://twitter.com/ruby_fosdem)
-* Phone: incoming
 * Emergency number: 112
+
+<br>
+<br>
+
+# Code of Conduct of FOSDEM17
+
+You can find it [here](https://fosdem.org/2017/practical/conduct/).
+
+## FOSDEM17 Contact information
+
+You can also reach out to FOSDEM organizers.
+
+* E-mail: conduct@fosdem.org
+* Phone (during the event only): +32 227 88 74 73
+* Or ask any staff member during the event to help you locate a team member.
