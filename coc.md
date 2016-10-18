@@ -18,7 +18,7 @@ available both during, before and after the conference. You can reach us by
 email, phone, Twitter or simply come to us during the devroom. We'll be easy to
 spot.
 
-* Email: `toch@rubybelgium.be` (Christophe) or `@silvanaprecup` (Silvana)
+* Email: `toch@rubybelgium.be` (Christophe) or `silvana@rubybelgium.be` (Silvana)
 * Twitter: [@ruby_fosdem](https://twitter.com/ruby_fosdem)
 * Emergency number: 112
 
