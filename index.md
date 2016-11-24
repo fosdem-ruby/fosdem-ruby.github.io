@@ -58,8 +58,8 @@ should be more than enough highly interesting and technical content!
 
 ## When and Where
 
-The Ruby devroom takes place on Saturday, the 4th February 2017, on the
-[Solbosch Campus, Université Libre de Bruxelles](https://goo.gl/maps/52tGkVuKJZS2) (room and building yet to be determined).
+The Ruby devroom takes place on Saturday, the 4th February 2017, in the room K.4.201, [building K](https://fosdem.org/2017/schedule/buildings/#k), on the
+[Solbosch Campus, Université Libre de Bruxelles](https://goo.gl/maps/52tGkVuKJZS2).
 
 ## Who we are
 
