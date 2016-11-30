@@ -39,6 +39,8 @@ Ruby devroom:
 To submit a proposal to present in the Ruby devroom, please submit your
 proposal on [penta.fosdem.org](https://penta.fosdem.org/submission/FOSDEM17).
 
+Another alternative is to submit your proposal on [PaperCall.io](https://www.papercall.io/fosdem-ruby).
+
 ### Steps
 
 1. You *will* need to create an account if you do not already have an account from previous years.
