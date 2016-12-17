@@ -76,3 +76,8 @@ less than completely comfortable.
 
 If you'd like to help the Ruby devroom to welcome speakers from all around the
 world, [you do it via sponsorship](sponsorship.html).
+
+## Previous Editions
+
+* [2016](https://archive.fosdem.org/2016/schedule/track/ruby/) and [videos](videos.html)
+* [2015](https://archive.fosdem.org/2015/schedule/track/ruby/)
