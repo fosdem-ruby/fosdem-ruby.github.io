@@ -30,8 +30,7 @@ Important dates:
 
 ## Submit a talk
 
-Head to the [FOSDEM 2024 Pretalx website](https://pretalx.fosdem.org/fosdem-2024/cfp)
-(https://pretalx.fosdem.org/fosdem-2024/cfp) website. This has
+Head to the [FOSDEM 2024 Pretalx website](https://pretalx.fosdem.org/fosdem-2024/cfp) website. This has
 replaced Pentabarf.
 
 * The title and subtitle of your talk (please be descriptive, as titles will be listed with ~500 from other projects)
