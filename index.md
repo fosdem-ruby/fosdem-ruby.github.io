@@ -6,7 +6,7 @@ subtitle: "The #1 Ruby language devroom at FOSDEM"
 
 ## Why we're here
 
-Join us at the Ruby Devroom at FOSDEM 2023 for a celebration of all things Ruby! 
+Join us at the Ruby Devroom at FOSDEM 2024 for a celebration of all things Ruby! 
 We invite all Ruby enthusiasts to share their knowledge and passion through presentations, workshops, and discussions.
 
 This devroom will provide a platform for Ruby developers to share their experiences, learn from each other, and collaborate on projects. 
@@ -30,7 +30,7 @@ Important dates:
 
 ## Submit a talk
 
-Head to the FOSDEM 2024 pretalx
+Head to the [FOSDEM 2024 Pretalx website](https://pretalx.fosdem.org/fosdem-2024/cfp)
 (https://pretalx.fosdem.org/fosdem-2024/cfp) website. This has
 replaced Pentabarf.
 
@@ -44,7 +44,7 @@ replaced Pentabarf.
 
 ## Requirements
 
-The conference language is English. All content must relate to Free and Open Source Software. By participating in the event you agree to the publication of your recordings, slides and other content provided under the same licence as all FOSDEM content (CC-BY). By participating in FOSDEM you are required to adhere the Code of Conduct: https://fosdem.org/2024/practical/conduct/
+The conference language is English. All content must relate to Free and Open Source Software. By participating in the event you agree to the publication of your recordings, slides and other content provided under the same licence as all FOSDEM content (CC-BY). By participating in FOSDEM you are required to adhere the [Code of Conduct](https://fosdem.org/2024/practical/conduct/)
 
 ## Previous Editions
 
