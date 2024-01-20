@@ -47,5 +47,6 @@ The conference language is English. All content must relate to Free and Open Sou
 
 ## Previous Editions
 
+* [2017](https://archive.fosdem.org/2017/schedule/track/ruby/) and [videos](videos.html)
 * [2016](https://archive.fosdem.org/2016/schedule/track/ruby/) and [videos](videos.html)
 * [2015](https://archive.fosdem.org/2015/schedule/track/ruby/)
